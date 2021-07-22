@@ -969,19 +969,19 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@muhmdraouf/eslint-config-react@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config-react/-/eslint-config-react-1.0.0.tgz#0215b098731da717d7bf87d3e23dc59bb9b86389"
-  integrity sha512-b/c8GIecrdXmQCe3bNMs2p3ooJHklWoSMGcSFr8bgsDAecmGSTTzB7WeJobJSL045XaDyT0nYKJT/sXU++nlYA==
+"@muhmdraouf/eslint-config-react@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config-react/-/eslint-config-react-1.0.1.tgz#338987f0a9fa42a4ffe688d4a05076ef5e104a21"
+  integrity sha512-Hno+NS5q34ILrlTbha/dfXqbGs/N06Gg2yXHZJWudJJNS+bOQfBJ3b1NMkGMvTv/f5E61d1Lm9dwLmNQ/XMmFQ==
   dependencies:
-    "@muhmdraouf/eslint-config" "^1.0.0"
+    "@muhmdraouf/eslint-config" "^1.0.1"
     eslint-plugin-react "^7.24.0"
     eslint-plugin-react-hooks "^4.2.0"
 
-"@muhmdraouf/eslint-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config/-/eslint-config-1.0.0.tgz#c1f69346eb8de147c190f39dc70f6717ea7335a0"
-  integrity sha512-1nFHUoBU2x/vmTElCt0F/ga+uobi4U2NEt0O5zy+fe4Mn8YNoalSQD8Bm1EXE4+RfZVpkfV/FoXPTlL427wAMg==
+"@muhmdraouf/eslint-config@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config/-/eslint-config-1.0.1.tgz#71387c1494f374b22498da658e05b35f219380b1"
+  integrity sha512-bGSI3Vp1hD7xnufNPKrL7ZLxmm67uVMaYUZ+4lYecQKXXaGM8yUBfxyD+BMOzaDfJiE7J2yQMqWfGlshXg6lbA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.28.4"
     "@typescript-eslint/parser" "^4.28.4"
