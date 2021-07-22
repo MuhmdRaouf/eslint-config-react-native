@@ -1,6 +1,6 @@
 {
   "name": "@muhmdraouf/eslint-config-react-native",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "ESLint and TypeScript configuration for React Native.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "react-native": "0.64.2"
   },
   "dependencies": {
-    "@muhmdraouf/eslint-config-react": "^0.0.1",
+    "@muhmdraouf/eslint-config-react": "^1.0.0",
     "@react-native-community/eslint-config": "^3.0.0",
     "@react-native-community/eslint-plugin": "^1.1.0",
     "eslint-plugin-react-native": "^3.11.0"
