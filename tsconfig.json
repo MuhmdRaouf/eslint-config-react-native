@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "MuhmdRaouf's config",
+  "extends": "@muhmdraouf/eslint-config-react/tsconfig",
+  "compilerOptions": {
+    /* Language and Environment Options */
+    "jsx": "react-native"     /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
+  },
+  "exclude": ["node_modules", "babel.config.js", "metro.config.js", "jest.config.js"]
+}

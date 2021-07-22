@@ -1,0 +1,32 @@
+{
+  "name": "@muhmdraouf/eslint-config-react-native",
+  "version": "0.0.1",
+  "description": "ESLint and TypeScript configuration for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . --config index.js --ext .js,.jsx,.ts,.tsx --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhmdraouf/eslint-config-react-native.git"
+  },
+  "author": "Mohammed Abdel Raouf <mohammed@raouf.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhmdraouf/eslint-config-react-native/issues"
+  },
+  "homepage": "https://github.com/muhmdraouf/eslint-config-react-native#readme",
+  "devDependencies": {
+    "@types/react-native": "^0.64.12",
+    "eslint": "^7.31.0",
+    "jest": "^27.0.6",
+    "react": "17.0.1",
+    "react-native": "0.64.2"
+  },
+  "dependencies": {
+    "@muhmdraouf/eslint-config-react": "^0.0.1",
+    "@react-native-community/eslint-config": "^3.0.0",
+    "@react-native-community/eslint-plugin": "^1.1.0",
+    "eslint-plugin-react-native": "^3.11.0"
+  }
+}
