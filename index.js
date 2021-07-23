@@ -1,7 +1,5 @@
 // eslint-disable-next-line import/no-commonjs
 module.exports = {
-  root: true,
-  parser: '@typescript-eslint/parser',
   extends: '@muhmdraouf/eslint-config-react',
   plugins: ['react-native'],
   env: { 'react-native/react-native': true },
