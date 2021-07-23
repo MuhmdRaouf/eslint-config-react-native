@@ -969,10 +969,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@muhmdraouf/eslint-config-react@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config-react/-/eslint-config-react-1.0.2.tgz#454997bbcda7c1aec1ed5fa08aa7bf1fc10392b9"
-  integrity sha512-OpmyA6hu+wzlgpBvKMJHIyhhe1bn0E4L+jwkgnNv9tzbuCEITfq0wyz/SzBpZ13TQkftxofgq2j6myR6MnkIGA==
+"@muhmdraouf/eslint-config-react@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config-react/-/eslint-config-react-1.0.3.tgz#1b843df5aca2dbc77891768d5d84ffe8f4394ef3"
+  integrity sha512-VTdlYogrhldjce5YUMlGUJujMpFqejzM4Q+5PJ2J89wxGN5qQTFLKJBl6lN75jhnSSWdi1QUBQz0MHsoTqLIGA==
   dependencies:
     "@muhmdraouf/eslint-config" "^1.0.2"
     eslint-plugin-react "^7.24.0"
