@@ -7,13 +7,6 @@ module.exports = {
   rules: {
     // react-native
     'react-native/no-unused-styles': 'error',
-    'react-native/split-platform-components': [
-      'error',
-      {
-        androidPathRegex: '\\.android.(ts|tsx|js|jsx)$',
-        iosPathRegex: '\\.ios.(ts|tsx|js|jsx)$',
-      },
-    ],
     'react-native/no-inline-styles': 'error',
     'react-native/no-color-literals': 'error',
     'react-native/no-raw-text': 'error',
